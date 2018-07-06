@@ -1,0 +1,11 @@
+C:\Users\User\Project4\Third\bin\Debug\netcoreapp2.1\Third.deps.json
+C:\Users\User\Project4\Third\bin\Debug\netcoreapp2.1\Third.runtimeconfig.json
+C:\Users\User\Project4\Third\bin\Debug\netcoreapp2.1\Third.runtimeconfig.dev.json
+C:\Users\User\Project4\Third\bin\Debug\netcoreapp2.1\Third.dll
+C:\Users\User\Project4\Third\bin\Debug\netcoreapp2.1\Third.pdb
+C:\Users\User\Project4\Third\obj\Debug\netcoreapp2.1\Third.csprojAssemblyReference.cache
+C:\Users\User\Project4\Third\obj\Debug\netcoreapp2.1\Third.csproj.CoreCompileInputs.cache
+C:\Users\User\Project4\Third\obj\Debug\netcoreapp2.1\Third.AssemblyInfoInputs.cache
+C:\Users\User\Project4\Third\obj\Debug\netcoreapp2.1\Third.AssemblyInfo.cs
+C:\Users\User\Project4\Third\obj\Debug\netcoreapp2.1\Third.dll
+C:\Users\User\Project4\Third\obj\Debug\netcoreapp2.1\Third.pdb

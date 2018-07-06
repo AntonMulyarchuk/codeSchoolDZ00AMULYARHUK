@@ -1,0 +1,11 @@
+C:\Users\User\Project5\Forth\bin\Debug\netcoreapp2.1\Forth.deps.json
+C:\Users\User\Project5\Forth\bin\Debug\netcoreapp2.1\Forth.runtimeconfig.json
+C:\Users\User\Project5\Forth\bin\Debug\netcoreapp2.1\Forth.runtimeconfig.dev.json
+C:\Users\User\Project5\Forth\bin\Debug\netcoreapp2.1\Forth.dll
+C:\Users\User\Project5\Forth\bin\Debug\netcoreapp2.1\Forth.pdb
+C:\Users\User\Project5\Forth\obj\Debug\netcoreapp2.1\Forth.csprojAssemblyReference.cache
+C:\Users\User\Project5\Forth\obj\Debug\netcoreapp2.1\Forth.csproj.CoreCompileInputs.cache
+C:\Users\User\Project5\Forth\obj\Debug\netcoreapp2.1\Forth.AssemblyInfoInputs.cache
+C:\Users\User\Project5\Forth\obj\Debug\netcoreapp2.1\Forth.AssemblyInfo.cs
+C:\Users\User\Project5\Forth\obj\Debug\netcoreapp2.1\Forth.dll
+C:\Users\User\Project5\Forth\obj\Debug\netcoreapp2.1\Forth.pdb
